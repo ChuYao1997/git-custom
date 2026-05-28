@@ -28,6 +28,6 @@ def print_heart(char='❤', color=True):
 		print(line)
 
 
-if __name__ == '__main__':
+""" if __name__ == '__main__':
 	# 尝试在大多数终端显示彩色；在不支持的终端上也能正常显示（会包含控制字符）
-	print_heart()
+	print_heart() """
